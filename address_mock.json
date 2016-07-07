@@ -1,0 +1,39 @@
+{
+    "id": "",
+    "phone": "",
+    "name": "",
+    "floor": "",
+    "apartment": "",
+    "street_name": "",
+    "street_number": 0,
+    "zip_code": "",
+    "city": {
+      "id": "",
+      "name": ""
+    },
+    "state": {
+      "id": "",
+      "name": ""
+    },
+    "country": {
+      "id": "",
+      "name": ""
+    },
+    "neighborhood": {
+      "id": "",
+      "name": ""
+    },
+    "municipality": {
+      "id": "",
+      "name": ""
+    },
+    "comments": "",
+    "date_created": "",
+    "verifications": {
+      "shipment": {
+        "success": true,
+        "errors": []
+      },
+      "name": ""
+    },
+}

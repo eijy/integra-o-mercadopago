@@ -1,0 +1,28 @@
+{
+    "email": "",
+    "first_name": "",
+    "last_name": "",
+    "phone": {
+        "area_code": "",
+        "number": ""
+    },
+    "identification": {
+        "type": "",
+        "number": ""
+    },
+    "default_address": "",
+    "address": {
+        "id": "",
+        "zip_code": "",
+        "street_name": "",
+        "street_number": 0
+    },
+    "date_registered": "",
+    "description": "",
+    "date_created": "",
+    "date_last_updated": "",
+    "metadata": {},
+    "default_card": "",
+    "addresses": [],
+    "live_mode": true
+}
